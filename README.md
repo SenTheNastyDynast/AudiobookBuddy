@@ -3,7 +3,7 @@ For instant playback functionality, please install MPV: https://mpv.io/. You mig
 
 Simple edge-tts GUI with CMD interface. Just run the .py file. If you don't fill out the Filename input, clicking on generate will only play back the text/file.
 
-When entering a filename, do not use spaces and use the .wav or .mp3 extension.
+When entering a filename, do not use spaces and use the .wav or .mp3 extension. eg. my-audio-file.wav
 
 When choosing "File", look for the search bar on the bottom of the app and make sure you select a .txt file in UTF-8 format.
 
